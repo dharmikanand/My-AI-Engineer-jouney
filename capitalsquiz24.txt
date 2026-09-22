@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form24)
+
+1.Capital of Oklahoma:
+A Oklahoma City
+B Nashville
+C Columbia
+D Phoenix
+
+2.Capital of Alaska:
+A Bismarck
+B Concord
+C Juneau
+D Atlanta
+
+3.Capital of Indiana:
+A Springfield
+B Annapolis
+C Indianapolis
+D Santa Fe
+
+4.Capital of South Dakota:
+A Pierre
+B Montgomery
+C Montpelier
+D Little Rock
+
+5.Capital of Kentucky:
+A Lincoln
+B Pierre
+C Montpelier
+D Frankfort
+
+6.Capital of Vermont:
+A Sacramento
+B Salt Lake City
+C Nashville
+D Montpelier
+
+7.Capital of Alabama:
+A Springfield
+B Montgomery
+C Concord
+D Indianapolis
+
+8.Capital of Hawaii:
+A Boise
+B Phoenix
+C Olympia
+D Honolulu
+
+9.Capital of South Carolina:
+A Columbia
+B Phoenix
+C Austin
+D Concord
+
+10.Capital of North Carolina:
+A Raleigh
+B Nashville
+C Lincoln
+D Pierre
+
+11.Capital of Montana:
+A Helena
+B Montpelier
+C Saint Paul
+D Topeka
+
+12.Capital of Kansas:
+A Trenton
+B Topeka
+C Little Rock
+D Montgomery
+
+13.Capital of New York:
+A Montgomery
+B Albany
+C Olympia
+D Lincoln
+
+14.Capital of Rhode Island:
+A Tallahassee
+B Providence
+C Augusta
+D Richmond
+
+15.Capital of New Mexico:
+A Concord
+B Santa Fe
+C Lincoln
+D Tallahassee
+
+16.Capital of Arizona:
+A Concord
+B Carson City
+C Salt Lake City
+D Phoenix
+
+17.Capital of Arkansas:
+A Columbia
+B Honolulu
+C Boise
+D Little Rock
+
+18.Capital of Washington:
+A Olympia
+B Honolulu
+C Cheyenne
+D Nashville
+
+19.Capital of Massachusetts:
+A Harrisburg
+B Concord
+C Boston
+D Santa Fe
+
+20.Capital of Colorado:
+A Denver
+B Nashville
+C Oklahoma City
+D Jackson
+
+21.Capital of North Dakota:
+A Saint Paul
+B Honolulu
+C Bismarck
+D Jackson
+
+22.Capital of New Jersey:
+A Trenton
+B Boston
+C Columbus
+D Tallahassee
+
+23.Capital of Louisiana:
+A Springfield
+B Boise
+C Hartford
+D Baton Rouge
+
+24.Capital of Florida:
+A Little Rock
+B Oklahoma City
+C Trenton
+D Tallahassee
+
+25.Capital of Tennessee:
+A Frankfort
+B Nashville
+C Trenton
+D Helena
+
+26.Capital of West Virginia:
+A Madison
+B Lansing
+C Helena
+D Charleston
+
+27.Capital of Maryland:
+A Saint Paul
+B Frankfort
+C Annapolis
+D Lincoln
+
+28.Capital of Minnesota:
+A Springfield
+B Columbus
+C Providence
+D Saint Paul
+
+29.Capital of Ohio:
+A Columbus
+B Augusta
+C Nashville
+D Saint Paul
+
+30.Capital of Maine:
+A Augusta
+B Dover
+C Montpelier
+D Montgomery
+
+31.Capital of Virginia:
+A Harrisburg
+B Carson City
+C Richmond
+D Austin
+
+32.Capital of Connecticut:
+A Hartford
+B Austin
+C Helena
+D Boise
+
+33.Capital of Oregon:
+A Salem
+B Nashville
+C Annapolis
+D Austin
+
+34.Capital of Georgia:
+A Atlanta
+B Springfield
+C Concord
+D Montpelier
+
+35.Capital of Iowa:
+A Charleston
+B Providence
+C Des Moines
+D Concord
+
+36.Capital of Pennsylvania:
+A Montpelier
+B Harrisburg
+C Columbus
+D Salem
+
+37.Capital of Wisconsin:
+A Des Moines
+B Madison
+C Boise
+D Augusta
+
+38.Capital of Idaho:
+A Dover
+B Austin
+C Boise
+D Des Moines
+
+39.Capital of New Hampshire:
+A Lansing
+B Honolulu
+C Pierre
+D Concord
+
+40.Capital of Mississippi:
+A Denver
+B Little Rock
+C Jackson
+D Augusta
+
+41.Capital of Wyoming:
+A Little Rock
+B Boise
+C Cheyenne
+D Raleigh
+
+42.Capital of California:
+A Topeka
+B Sacramento
+C Salem
+D Lansing
+
+43.Capital of Nebraska:
+A Bismarck
+B Trenton
+C Raleigh
+D Lincoln
+
+44.Capital of Michigan:
+A Carson City
+B Bismarck
+C Frankfort
+D Lansing
+
+45.Capital of Texas:
+A Bismarck
+B Trenton
+C Austin
+D Boise
+
+46.Capital of Missouri:
+A Sacramento
+B Olympia
+C Saint Paul
+D Jefferson City
+
+47.Capital of Nevada:
+A Harrisburg
+B Carson City
+C Cheyenne
+D Saint Paul
+
+48.Capital of Delaware:
+A Springfield
+B Dover
+C Boston
+D Saint Paul
+
+49.Capital of Utah:
+A Juneau
+B Montpelier
+C Salt Lake City
+D Lansing
+
+50.Capital of Illinois:
+A Santa Fe
+B Springfield
+C Topeka
+D Concord
+
