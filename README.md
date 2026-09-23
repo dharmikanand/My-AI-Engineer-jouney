@@ -1,1 +1,1 @@
-# My-AI-Engineer-jouney
+# My-AI-Engineer-journey
